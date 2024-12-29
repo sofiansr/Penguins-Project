@@ -1,5 +1,5 @@
 <h1 align='center'>
-  🐧🐧 Penguinsss Project 🐧🐧
+  🐧🐧 Penguins-Project 🐧🐧
 </h1>
 
 <!---![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white) [![Licence](https://img.shields.io/github/license/Ileriayo/markdown-badges?style=for-the-badge)](./LICENSE)-->
@@ -54,7 +54,7 @@ git clone https://github.com/FLG95/Project-Pinguinsss.git
 > [!IMPORTANT]
 > Make sure your keyboard is set to AZERTY before playing.
 
-- Start the game. Yeah, thanks you, Captain Obvious.
+- Start the game : `.\NFS_Penguins`
 
 - Press `P` to start a game, or `ESC` to quit.
 
@@ -125,12 +125,12 @@ IGN :
 > 10/10
 
 jeuxvideo.com :
-> *Extraordinaire et puissant chef d'oeuvre, une scénario digne d'un film de Tarantino et des graphismes époustouflants*
+> *Extraordinaire et puissant chef d'oeuvre, un scénario digne d'un film de Tarantino et des graphismes époustouflants*
 > 
 > 9,99999/10
 
 GameSpot :
-> *If the word "gaming" was a game, it would defenitly be Pinguinsss Project*
+> *If the word "gaming" was a game, it would defenitly be Penguins-Project*
 >
 > 11/10
 
@@ -144,18 +144,3 @@ Made with ❤️ and 🐧 in Cergy-Pontoise, France.
 </a>
 <br><br>
 Absolutly no penguins were harmed in the making of this game.
-
-<!---
-Credits :
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
-
-
-https://github.com/Naereen/badges
-https://github.com/alexandresanlim/Badges4-README.md-Profile/
-https://contrib.rocks/preview?repo=FLG95%2FProject-Pinguinsss
-https://readme.so/fr/editor
-
