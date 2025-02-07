@@ -17,6 +17,12 @@
   Try to collect as many fish as you can ! 
 </p>
 
+## Introduction
+"Penguins-Project", or "Projet CY-Fish", is an assignment given by both Eva ANSERMIN and Romuald GRIGNON, two teachers of mine at CY Tech.<br>
+This assignment was due at the end of the second semester of my first year there.<br>
+[See the assignment requirements](https://github.com/sofiansr/Penguins-Project/blob/main/P1_Info2_Project_CY-FISH_v1.0.pdf)
+
+
 ## Pictures
 ![Game menu](https://i.imgur.com/dFwgshV.png)
 ![In-game picture](https://i.imgur.com/yvEfVcp.png)
